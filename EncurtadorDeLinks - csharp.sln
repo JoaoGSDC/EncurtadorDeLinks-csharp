@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncurtadorDeLinks - csharp", "EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp.csproj", "{AC9626DB-59AD-4C54-A499-CE32D700EA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitlyAPI", "BitlyAPI\BitlyAPI.csproj", "{00AC9D89-1659-40FC-B170-68CDE467C858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9626DB-59AD-4C54-A499-CE32D700EA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9626DB-59AD-4C54-A499-CE32D700EA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9626DB-59AD-4C54-A499-CE32D700EA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9626DB-59AD-4C54-A499-CE32D700EA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AC9D89-1659-40FC-B170-68CDE467C858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AC9D89-1659-40FC-B170-68CDE467C858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AC9D89-1659-40FC-B170-68CDE467C858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AC9D89-1659-40FC-B170-68CDE467C858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A70E14C-11A4-4A5C-8DC1-6F56EF5C5FEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.csprojAssemblyReference.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks___csharp.FrmEncurtador.resources
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks___csharp.Properties.Resources.resources
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.csproj.GenerateResource.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.csproj.CoreCompileInputs.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\bin\Debug\EncurtadorDeLinks - csharp.exe.config
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\bin\Debug\EncurtadorDeLinks - csharp.exe
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\bin\Debug\EncurtadorDeLinks - csharp.pdb
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\bin\Debug\BitlyAPI.dll
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\bin\Debug\BitlyAPI.pdb
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.csproj.CopyComplete
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.exe
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\EncurtadorDeLinks - csharp\obj\Debug\EncurtadorDeLinks - csharp.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\bin\Debug\netstandard2.0\BitlyAPI.deps.json
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\bin\Debug\netstandard2.0\BitlyAPI.dll
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.csprojAssemblyReference.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.AssemblyInfoInputs.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.AssemblyInfo.cs
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\bin\Debug\netstandard2.0\BitlyAPI.pdb
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.dll
+C:\Users\Rápido no Ar\source\repos\EncurtadorDeLinks - csharp\BitlyAPI\obj\Debug\netstandard2.0\BitlyAPI.pdb
